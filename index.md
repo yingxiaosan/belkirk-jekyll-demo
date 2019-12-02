@@ -26,10 +26,12 @@ hero_button:
   href: "/about"
 show_news: false
 show_staff: false
-menu:
-  navigation:
-    identifier: _index
-    weight: 1
 
 ---
 gdtgretretretret
+
+sdfdsfsdaf
+
+sdfdsfsdaf
+
+sdfdasfdasfsdafds
