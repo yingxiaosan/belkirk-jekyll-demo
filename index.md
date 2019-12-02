@@ -26,7 +26,6 @@ hero_button:
   href: "/about"
 show_news: false
 show_staff: false
-published: false
 
 ---
 gdtgretretretret
