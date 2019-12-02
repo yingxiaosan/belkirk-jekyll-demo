@@ -39,4 +39,4 @@ fields:
   hidden: true
   default: post
 pages:
-- _posts/english.md
+- _posts/2019-12-01-english.md
